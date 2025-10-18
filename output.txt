@@ -1,0 +1,32 @@
+Student Name : 
+Student Roll No. : 
+Subject Selected : TOC
+OverAll Feedback : 1.0
+1. Teacher is prepared for class : Strongly Disagree
+2. Teacher knows His/Her Subject : Strongly Disagree
+3. Teacher is Organised and neet : Strongly Disagree
+4. Teacher Plans class time and Assignments : Strongly Disagree
+5. Teacher is flexible : Strongly Disagree
+6. Teacher is clear about assignments and test : Strongly Disagree
+7. Teacher allows you to be active in the classroom : Strongly Disagree
+8. Teacher manages the time well : Strongly Disagree
+9. Teacher returns homework in a timely manner : Strongly Disagree
+10. Teacher grades Fairly : Strongly Disagree
+11. I have learned a lot from the teacher about this subject : Strongly Disagree
+12. Teacher gives good feedback on projects : Strongly Disagree
+13. Teacher is creative in developing lesson plans : Strongly Disagree
+14. Teacher encorages students to speak up : Strongly Disagree
+15. Teacher follows through on what he/she says : Strongly Disagree
+16. Teacher listens student's point of view : Strongly Disagree
+17. Teacher respects the opinions and decision of students : Strongly Disagree
+18. Teacher accepts responcibility for his/her own mistakes : Strongly Disagree
+19. Teacher is willing to learn from students : Strongly Disagree
+20. Teacher is sensitive to the needs of students : Strongly Disagree
+21. Teacher's words and actions match : Strongly Disagree
+22. Teacher is fun to be with : Strongly Disagree
+23. Teacher likes and respects students : Strongly Disagree
+24. Teacher helps when you ask for help : Strongly Disagree
+25. Tecaher is consistent and fair in discipline : Strongly Disagree
+25. Tecaher is consistent and fair in discipline : 26. I trust this teacher : Strongly Disagree
+27. Teacher tries to model student's expectations : Strongly Disagree
+28. Teacher is firm in discipline without being too strict : Strongly Disagree
