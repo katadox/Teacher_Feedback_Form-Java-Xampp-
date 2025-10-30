@@ -1,0 +1,15 @@
+
+4. The following are the teacher username and password 
+	subject TOC, username: Rakesh, password: 1234567
+	subject OOP, username: Happy, password: 123
+	subject MATHS, username: Prabha, password: 909
+	subject DS, username: Rishika, password: 678
+	subject DELD, username: Deepthy, password:456 
+
+
+
+
+
+
+
+
